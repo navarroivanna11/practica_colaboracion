@@ -1,3 +1,8 @@
 Servidor Alpha:
 
 Servidor Beta:
+Nombre: SRV-BETA
+IP: 192.168.1.20
+Memoria RAM: 8 GB
+Almacenamiento: 500 GB
+Estado: Activo
