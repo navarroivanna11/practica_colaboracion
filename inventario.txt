@@ -1,3 +1,9 @@
 Servidor Alpha:
+Nombre: SRV- ALPHA
+IP: 192.168.1.10
+Memoria RAM: 16 GB
+Almacenamiento: 500 GB
+Estado: Activo
+
 
 Servidor Beta:
